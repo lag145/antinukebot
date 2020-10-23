@@ -1,1 +1,4 @@
-<h1>Antinuke bot</h1>
+**index**
+- an general about part
+- tos the bots tos
+- faq
